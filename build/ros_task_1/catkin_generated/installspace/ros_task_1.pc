@@ -1,0 +1,8 @@
+prefix=/home/mariam/catkin_ws1/install
+
+Name: ros_task_1
+Description: Description of ros_task_1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
